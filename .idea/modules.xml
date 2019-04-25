@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FishTrackerSampleProject.iml" filepath="$PROJECT_DIR$/FishTrackerSampleProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cis-3334-unit-14-unit-tests-team.iml" filepath="$PROJECT_DIR$/cis-3334-unit-14-unit-tests-team.iml" />
     </modules>
   </component>
 </project>
